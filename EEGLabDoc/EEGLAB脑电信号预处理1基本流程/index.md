@@ -1,6 +1,11 @@
 ---
 title: "EEGLAB脑电信号预处理1基本流程"
 date: 2023-03-14T22:04:57+08:00
+draft: false
+tags: ["EEGLab", "脑电信号分析"]
+categories: ["学习笔记"]
+twemoji: true
+lightgallery: true
 ---
 ## 单被试EEG预处理步骤
 * Import data-- 导入数据
